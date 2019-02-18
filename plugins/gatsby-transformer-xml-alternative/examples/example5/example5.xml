@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<html>
+   <head>
+      <title>Sample Html file</title>
+      <script src="//wwww.somerandomjs/onerandom.js"></script>
+      <script>try{fetch.url('sssssss');}catch(e){}</script>
+      <script src="//anotherjs/170430035.js"></script>
+      <script>
+         window.analytics||(window.analytics=[]),window.analytics.methods=["identify","track","trackLink","trackForm","trackClick","trackSubmit","page","pageview","ab","alias","ready","group","on","once","off"],window.analytics.factory=function(t){return function(){var a=Array.prototype.slice.call(arguments);return a.unshift(t),window.analytics.push(a),window.analytics}};for(var i=0;window.analytics.methods.length>i;i++){var method=window.analytics.methods[i];window.analytics[method]=window.analytics.factory(method)}window.analytics.load=function(t){var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=("https:"===document.location.protocol?"https://":"http://")+"d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n)},window.analytics.SNIPPET_VERSION="2.0.8",
+         window.analytics.load("jyumwga");
+      </script>
+    </head>
+    <body>
+      <header class="header" role="banner">
+        <div class="Page">
+          <nav id="MobileNavigation">a</nav>
+          <div class="Nav navitem--">
+            <h1 class="header-logo">
+               <a href="/">Go there</a>
+            </h1>
+            <nav class="small">
+               <a href="/one" class="nav-item">random item 1</a>
+               <a href="/two" class="nav-item">random item 2</a>
+               <a href="/three" class="nav-item">random item 3</a>
+               <a href="/four" class="nav-item ">random item 4</a>
+               <div class="dropdown">
+                  <div class="clicker" on-click="redirection">
+                     <div class="nav-main-menu">
+                        <a href="/another-item">yuppi</a>
+                        <a href="/one-more">clickity clack</a>
+                        <a href="/and-another">tiger tiger</a>
+                        <a href="/why-not-another">total recall</a>
+                        <a href="/random-content">click me</a>
+                        <a href="/entries"> something something</a>
+                     </div>
+                  </div>
+               </div>
+            </nav>
+            <nav class="right">
+               <a href="/wololo" class="nav-item">go see a wonder</a>
+               <div class="a-wonder-class">
+                  <img class="Im-the-avatar" src="https://woosh.com/gravatar" on-click="open"/>
+                  <span class="nav-trigger" on-click="open">
+                     <div class="nav-menu nav-menu--right">
+                        <a href="/money">Money page</a>
+                        <a href="/sink/new">a random page</a>
+                        <a href="/random-company/org-chart">Organization Chart</a>
+                        <a href="/logout">Logout</a>
+                     </div>
+                  </span>
+               </div>
+            </nav>
+            <div class="header-content">
+               <h2 class="header-title">something something....something</h2>
+               <h3 class="header-lead">send send send</h3>
+               <div class="header-action">
+                  <a href="/all" class="Button Button--small Button--arrow">More</a>
+                  <a href="/account-create" class="Button Button--small Button--arrow Button--outline">Start</a>
+               </div>
+            </div>
+            <div class="header-image Chrome">
+               <div class="integrations"></div>
+            </div>
+          </div>
+        </div>
+      </header>
+      <main class="Page">
+         <section class="bullet-points">
+            <a href="/docs/how-to" class="xpto">
+               <i class="xpto-icon xpto-icon--switch"></i>
+               <div class="xpto-content">
+                  <h3 class="xpto-title">Some random text</h3>
+                  <p>Some random text inside a p tag element.</p>
+                  <span class="xpto-link xpto xpto--caps">This is the content of a span</span>
+               </div>
+            </a>
+            <a href="/left-turn" class="another-random class">
+               <i class="xpto-icon xpto-icon--lock"></i>
+               <div class="xpto-content">
+                  <h3 class="xpto-title">This is a h3 element</h3>
+                  <p>Another p element</p>
+                  <span class="xpto-link xpto xpto--caps">Another span</span>
+               </div>
+            </a>
+            <a href="/right-turn" class="why-not-go-for-3 xpto">
+               <i class="xpto-icon xpto-icon--mobile"></i>
+               <div class="xpto-content">
+                  <h3 class="xpto-title">a special element inside a node &amp;</h3>
+                  <p>One more p element</p>
+                  <span class="xpto-link-caps">A nice neat span</span>
+               </div>
+            </a>
+         </section>
+         <section>
+            <h3 class="something">
+               <span>span</span>
+            </h3>
+            <div class="salad">
+               <span class="salad-item">
+               <i class="logo-target image-replace"></i>
+               </span>
+               <span class="salad-item">
+               <i class="logo-theeconomist image-replace"></i>
+               </span>
+               <span class="salad-item">
+               <i class="logo-theknot image-replace"></i>
+               </span>
+               <span class="salad-item">
+               <i class="logo-livenation image-replace"></i>
+               </span>
+               <span class="salad-item">
+               <i class="logo-99designs image-replace"></i>
+               </span>
+               <span class="salad-item">
+               <i class="logo-uservoice image-replace"></i>
+               </span>
+               <span class="salad-item">
+               <i class="logo-docusign image-replace"></i>
+               </span>
+               <span class="salad-item">
+               <i class="logo-recurly image-replace"></i>
+               </span>
+            </div>
+            <aside class="shiny action">
+               <span class="shiny-body">End of the page</span>
+               <a href="/signup" class="action-button btn btn--arrow">Another element to link to another page</a>
+            </aside>
+         </section>
+      </main>
+      <footer class="footer">
+         <a href="/docs">showing all docs</a>
+         <a href="https://github.com/">A good place to hold code</a>
+         <a href="/">Home</a>
+         <a href="/docs/legal">Legal info</a>
+         <a href="/docs/private">documents about something that is another something</a>
+      </footer>
+      <script src="/local/hosted/js-library.js?with-some-entry-args=9.9.9"></script>
+   </body>
+</html>

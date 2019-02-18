@@ -1,0 +1,81 @@
+{
+  "root": {
+    "name": "html",
+    "attributes": {},
+    "children": [
+      {
+        "name": "script",
+        "children": [
+          {
+            "_attributes": {
+              "src": "//wwww.somerandomjs/onerandom.js"
+            }
+          },
+          {
+            "_text": "try{fetch.url('sssssss');}catch(e){}"
+          },
+          {
+            "_attributes": {
+              "src": "//anotherjs/170430035.js"
+            }
+          },
+          {
+            "_text": "window.analytics||(window.analytics=[]),window.analytics.methods=[\"identify\",\"track\",\"trackLink\",\"trackForm\",\"trackClick\",\"trackSubmit\",\"page\",\"pageview\",\"ab\",\"alias\",\"ready\",\"group\",\"on\",\"once\",\"off\"],window.analytics.factory=function(t){return function(){var a=Array.prototype.slice.call(arguments);return a.unshift(t),window.analytics.push(a),window.analytics}};for(var i=0;window.analytics.methods.length>i;i++){var method=window.analytics.methods[i];window.analytics[method]=window.analytics.factory(method)}window.analytics.load=function(t){var a=document.createElement(\"script\");a.type=\"text/javascript\",a.async=!0,a.src=(\"https:\"===document.location.protocol?\"https://\":\"http://\")+\"d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/\"+t+\"/analytics.min.js\";var n=document.getElementsByTagName(\"script\")[0];n.parentNode.insertBefore(a,n)},window.analytics.SNIPPET_VERSION=\"2.0.8\",\r\n         window.analytics.load(\"jyumwga\");"
+          }
+        ]
+      },
+      {
+        "name": "p",
+        "children": [
+          {
+            "_text": "This is a very simple HTML document"
+          },
+          {
+            "_text": "It only has two paragraphs"
+          }
+        ]
+      },
+      {
+        "name": "a",
+        "children": [
+          {
+            "_attributes": {
+              "href": "/another-item"
+            },
+            "_text": "yuppi"
+          },
+          {
+            "_attributes": {
+              "href": "/one-more"
+            },
+            "_text": "clickity clack"
+          },
+          {
+            "_attributes": {
+              "href": "/and-another"
+            },
+            "_text": "tiger tiger"
+          },
+          {
+            "_attributes": {
+              "href": "/why-not-another"
+            },
+            "_text": "total recall"
+          },
+          {
+            "_attributes": {
+              "href": "/random-content"
+            },
+            "_text": "click me"
+          },
+          {
+            "_attributes": {
+              "href": "/entries"
+            },
+            "_text": "something something"
+          }
+        ]
+      }
+    ]
+  }
+}

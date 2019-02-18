@@ -1,0 +1,528 @@
+{
+  "html": {
+    "head": {
+      "title": {
+        "_text": "Sample Html file"
+      },
+      "script": [
+        {
+          "_attributes": {
+            "src": "//wwww.somerandomjs/onerandom.js"
+          }
+        },
+        {
+          "_text": "try{fetch.url('sssssss');}catch(e){}"
+        },
+        {
+          "_attributes": {
+            "src": "//anotherjs/170430035.js"
+          }
+        },
+        {
+          "_text": "window.analytics||(window.analytics=[]),window.analytics.methods=[\"identify\",\"track\",\"trackLink\",\"trackForm\",\"trackClick\",\"trackSubmit\",\"page\",\"pageview\",\"ab\",\"alias\",\"ready\",\"group\",\"on\",\"once\",\"off\"],window.analytics.factory=function(t){return function(){var a=Array.prototype.slice.call(arguments);return a.unshift(t),window.analytics.push(a),window.analytics}};for(var i=0;window.analytics.methods.length>i;i++){var method=window.analytics.methods[i];window.analytics[method]=window.analytics.factory(method)}window.analytics.load=function(t){var a=document.createElement(\"script\");a.type=\"text/javascript\",a.async=!0,a.src=(\"https:\"===document.location.protocol?\"https://\":\"http://\")+\"d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/\"+t+\"/analytics.min.js\";var n=document.getElementsByTagName(\"script\")[0];n.parentNode.insertBefore(a,n)},window.analytics.SNIPPET_VERSION=\"2.0.8\",\r\n         window.analytics.load(\"jyumwga\");"
+        }
+      ]
+    },
+    "body": {
+      "header": {
+        "_attributes": {
+          "class": "header",
+          "role": "banner"
+        },
+        "div": {
+          "_attributes": {
+            "class": "Page"
+          },
+          "nav": {
+            "_attributes": {
+              "id": "MobileNavigation"
+            },
+            "_text": "a"
+          },
+          "div": {
+            "_attributes": {
+              "class": "Nav navitem--"
+            },
+            "h1": {
+              "_attributes": {
+                "class": "header-logo"
+              },
+              "a": {
+                "_attributes": {
+                  "href": "/"
+                },
+                "_text": "Go there"
+              }
+            },
+            "nav": [
+              {
+                "_attributes": {
+                  "class": "small"
+                },
+                "a": [
+                  {
+                    "_attributes": {
+                      "href": "/one",
+                      "class": "nav-item"
+                    },
+                    "_text": "random item 1"
+                  },
+                  {
+                    "_attributes": {
+                      "href": "/two",
+                      "class": "nav-item"
+                    },
+                    "_text": "random item 2"
+                  },
+                  {
+                    "_attributes": {
+                      "href": "/three",
+                      "class": "nav-item"
+                    },
+                    "_text": "random item 3"
+                  },
+                  {
+                    "_attributes": {
+                      "href": "/four",
+                      "class": "nav-item"
+                    },
+                    "_text": "random item 4"
+                  }
+                ],
+                "div": {
+                  "_attributes": {
+                    "class": "dropdown"
+                  },
+                  "div": {
+                    "_attributes": {
+                      "class": "clicker",
+                      "on-click": "redirection"
+                    },
+                    "div": {
+                      "_attributes": {
+                        "class": "nav-main-menu"
+                      },
+                      "a": [
+                        {
+                          "_attributes": {
+                            "href": "/another-item"
+                          },
+                          "_text": "yuppi"
+                        },
+                        {
+                          "_attributes": {
+                            "href": "/one-more"
+                          },
+                          "_text": "clickity clack"
+                        },
+                        {
+                          "_attributes": {
+                            "href": "/and-another"
+                          },
+                          "_text": "tiger tiger"
+                        },
+                        {
+                          "_attributes": {
+                            "href": "/why-not-another"
+                          },
+                          "_text": "total recall"
+                        },
+                        {
+                          "_attributes": {
+                            "href": "/random-content"
+                          },
+                          "_text": "click me"
+                        },
+                        {
+                          "_attributes": {
+                            "href": "/entries"
+                          },
+                          "_text": "something something"
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "_attributes": {
+                  "class": "right"
+                },
+                "a": {
+                  "_attributes": {
+                    "href": "/wololo",
+                    "class": "nav-item"
+                  },
+                  "_text": "go see a wonder"
+                },
+                "div": {
+                  "_attributes": {
+                    "class": "a-wonder-class"
+                  },
+                  "img": {
+                    "_attributes": {
+                      "class": "Im-the-avatar",
+                      "src": "https://woosh.com/gravatar",
+                      "on-click": "open"
+                    }
+                  },
+                  "span": {
+                    "_attributes": {
+                      "class": "nav-trigger",
+                      "on-click": "open"
+                    },
+                    "div": {
+                      "_attributes": {
+                        "class": "nav-menu nav-menu--right"
+                      },
+                      "a": [
+                        {
+                          "_attributes": {
+                            "href": "/money"
+                          },
+                          "_text": "Money page"
+                        },
+                        {
+                          "_attributes": {
+                            "href": "/sink/new"
+                          },
+                          "_text": "a random page"
+                        },
+                        {
+                          "_attributes": {
+                            "href": "/random-company/org-chart"
+                          },
+                          "_text": "Organization Chart"
+                        },
+                        {
+                          "_attributes": {
+                            "href": "/logout"
+                          },
+                          "_text": "Logout"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "div": [
+              {
+                "_attributes": {
+                  "class": "header-content"
+                },
+                "h2": {
+                  "_attributes": {
+                    "class": "header-title"
+                  },
+                  "_text": "something something....something"
+                },
+                "h3": {
+                  "_attributes": {
+                    "class": "header-lead"
+                  },
+                  "_text": "send send send"
+                },
+                "div": {
+                  "_attributes": {
+                    "class": "header-action"
+                  },
+                  "a": [
+                    {
+                      "_attributes": {
+                        "href": "/all",
+                        "class": "Button Button--small Button--arrow"
+                      },
+                      "_text": "More"
+                    },
+                    {
+                      "_attributes": {
+                        "href": "/account-create",
+                        "class": "Button Button--small Button--arrow Button--outline"
+                      },
+                      "_text": "Start"
+                    }
+                  ]
+                }
+              },
+              {
+                "_attributes": {
+                  "class": "header-image Chrome"
+                },
+                "div": {
+                  "_attributes": {
+                    "class": "integrations"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "main": {
+        "_attributes": {
+          "class": "Page"
+        },
+        "section": [
+          {
+            "_attributes": {
+              "class": "bullet-points"
+            },
+            "a": [
+              {
+                "_attributes": {
+                  "href": "/docs/how-to",
+                  "class": "xpto"
+                },
+                "i": {
+                  "_attributes": {
+                    "class": "xpto-icon xpto-icon--switch"
+                  }
+                },
+                "div": {
+                  "_attributes": {
+                    "class": "xpto-content"
+                  },
+                  "h3": {
+                    "_attributes": {
+                      "class": "xpto-title"
+                    },
+                    "_text": "Some random text"
+                  },
+                  "p": {
+                    "_text": "Some random text inside a p tag element."
+                  },
+                  "span": {
+                    "_attributes": {
+                      "class": "xpto-link xpto xpto--caps"
+                    },
+                    "_text": "This is the content of a span"
+                  }
+                }
+              },
+              {
+                "_attributes": {
+                  "href": "/left-turn",
+                  "class": "another-random class"
+                },
+                "i": {
+                  "_attributes": {
+                    "class": "xpto-icon xpto-icon--lock"
+                  }
+                },
+                "div": {
+                  "_attributes": {
+                    "class": "xpto-content"
+                  },
+                  "h3": {
+                    "_attributes": {
+                      "class": "xpto-title"
+                    },
+                    "_text": "This is a h3 element"
+                  },
+                  "p": {
+                    "_text": "Another p element"
+                  },
+                  "span": {
+                    "_attributes": {
+                      "class": "xpto-link xpto xpto--caps"
+                    },
+                    "_text": "Another span"
+                  }
+                }
+              },
+              {
+                "_attributes": {
+                  "href": "/right-turn",
+                  "class": "why-not-go-for-3 xpto"
+                },
+                "i": {
+                  "_attributes": {
+                    "class": "xpto-icon xpto-icon--mobile"
+                  }
+                },
+                "div": {
+                  "_attributes": {
+                    "class": "xpto-content"
+                  },
+                  "h3": {
+                    "_attributes": {
+                      "class": "xpto-title"
+                    },
+                    "_text": "a special element inside a node &"
+                  },
+                  "p": {
+                    "_text": "One more p element"
+                  },
+                  "span": {
+                    "_attributes": {
+                      "class": "xpto-link-caps"
+                    },
+                    "_text": "A nice neat span"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "h3": {
+              "_attributes": {
+                "class": "something"
+              },
+              "span": {
+                "_text": "span"
+              }
+            },
+            "div": {
+              "_attributes": {
+                "class": "salad"
+              },
+              "span": [
+                {
+                  "_attributes": {
+                    "class": "salad-item"
+                  },
+                  "i": {
+                    "_attributes": {
+                      "class": "logo-target image-replace"
+                    }
+                  }
+                },
+                {
+                  "_attributes": {
+                    "class": "salad-item"
+                  },
+                  "i": {
+                    "_attributes": {
+                      "class": "logo-theeconomist image-replace"
+                    }
+                  }
+                },
+                {
+                  "_attributes": {
+                    "class": "salad-item"
+                  },
+                  "i": {
+                    "_attributes": {
+                      "class": "logo-theknot image-replace"
+                    }
+                  }
+                },
+                {
+                  "_attributes": {
+                    "class": "salad-item"
+                  },
+                  "i": {
+                    "_attributes": {
+                      "class": "logo-livenation image-replace"
+                    }
+                  }
+                },
+                {
+                  "_attributes": {
+                    "class": "salad-item"
+                  },
+                  "i": {
+                    "_attributes": {
+                      "class": "logo-99designs image-replace"
+                    }
+                  }
+                },
+                {
+                  "_attributes": {
+                    "class": "salad-item"
+                  },
+                  "i": {
+                    "_attributes": {
+                      "class": "logo-uservoice image-replace"
+                    }
+                  }
+                },
+                {
+                  "_attributes": {
+                    "class": "salad-item"
+                  },
+                  "i": {
+                    "_attributes": {
+                      "class": "logo-docusign image-replace"
+                    }
+                  }
+                },
+                {
+                  "_attributes": {
+                    "class": "salad-item"
+                  },
+                  "i": {
+                    "_attributes": {
+                      "class": "logo-recurly image-replace"
+                    }
+                  }
+                }
+              ]
+            },
+            "aside": {
+              "_attributes": {
+                "class": "shiny action"
+              },
+              "span": {
+                "_attributes": {
+                  "class": "shiny-body"
+                },
+                "_text": "End of the page"
+              },
+              "a": {
+                "_attributes": {
+                  "href": "/signup",
+                  "class": "action-button btn btn--arrow"
+                },
+                "_text": "Another element to link to another page"
+              }
+            }
+          }
+        ]
+      },
+      "footer": {
+        "_attributes": {
+          "class": "footer"
+        },
+        "a": [
+          {
+            "_attributes": {
+              "href": "/docs"
+            },
+            "_text": "showing all docs"
+          },
+          {
+            "_attributes": {
+              "href": "https://github.com/"
+            },
+            "_text": "A good place to hold code"
+          },
+          {
+            "_attributes": {
+              "href": "/"
+            },
+            "_text": "Home"
+          },
+          {
+            "_attributes": {
+              "href": "/docs/legal"
+            },
+            "_text": "Legal info"
+          },
+          {
+            "_attributes": {
+              "href": "/docs/private"
+            },
+            "_text": "documents about something that is another something"
+          }
+        ]
+      },
+      "script": {
+        "_attributes": {
+          "src": "/local/hosted/js-library.js?with-some-entry-args=9.9.9"
+        }
+      }
+    }
+  }
+}
